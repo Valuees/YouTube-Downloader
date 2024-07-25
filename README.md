@@ -1,6 +1,6 @@
 #**ytDowloaderC**
 
-student's project for beiginner C and python? programing
+student's project for beiginner
 
 this script can download Audio and Video on youtube
 
